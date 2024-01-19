@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there 👋
+## Hi there 👋
+## Hi there 👋
+#### Hi there 👋
+##### Hi there 👋
+---
+**두껍게** <br>
+*기울기* <br>
+~~최소선~~ <br> 
+* 1번
+* 2번
 
-<!--
-**alpha8108/alpha8108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 1번
+- 2번
 
-Here are some ideas to get you started:
+[네이버](www.naver.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+print('zzz')
+```
+
+:smirk:
+:joy:
+:rage:
